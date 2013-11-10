@@ -1,7 +1,6 @@
 package chessboard;
 
 
-
 import gui.GUI;
 import ai.AI;
 import ai.Agent;

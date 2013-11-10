@@ -1,10 +1,9 @@
 package ai;
 import chessboard.ChessBoard;
 
-
 /**
  * Record the chessboard state, which can be evaluate by the Evaluator
- * @author Sepsky
+ * @author 
  *
  */
 public class BoardNode extends chessboard.Board{

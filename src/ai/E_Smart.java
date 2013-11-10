@@ -189,6 +189,7 @@ public class E_Smart implements Evaluator {
 				}
 			}
 		}
+		
 //		System.out.println("in E_Naive:red value: "+this.red_value+", blue value: "+this.blue_value);
 //		System.out.println("in E_Naive:static:="+(myclr==ChessBoard2.RED?
 //				(this.red_value-this.blue_value):(this.blue_value-this.red_value)));

@@ -187,8 +187,7 @@ public class E_Naive implements Evaluator {
 					current_clr = tmpclr;					
 				}
 			}
-		}
-		
+		}		
 		return myclr==ChessBoard.RED?
 				(this.red_value-this.blue_value):(this.blue_value-this.red_value);
 	}

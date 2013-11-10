@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Sepsky
+ * @author 
  *
  */
 public class MyStdin {

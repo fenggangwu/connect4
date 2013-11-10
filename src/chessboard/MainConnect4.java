@@ -16,7 +16,7 @@ public class MainConnect4 {
 //		Evaluator e = new E_Naive();
 		Evaluator e = new E_Smart();
 //		AI ai = new Agent3(e,6, ChessBoard.BLUE);
-		AI ai = new Agent3(e,10, ChessBoard.BLUE);
+		AI ai = new Agent3(e,6, ChessBoard.BLUE);
 
 		AI ai2 = new Agent2(e,2, ChessBoard.RED);
 		

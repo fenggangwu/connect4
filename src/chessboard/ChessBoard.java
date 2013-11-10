@@ -5,6 +5,7 @@ import ai.Agent;
 import ai.BoardNode;
 
 
+
 public class ChessBoard extends Board{
 	public final static int RED = 1;
 	public final static int BLUE = 2;

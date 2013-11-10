@@ -158,6 +158,7 @@ public class Agent3 implements AI {
 			return AB;
 		}
 	}
+	
 	/**
 	 * Note the side-effect of recording the best choice
 	 * @param b

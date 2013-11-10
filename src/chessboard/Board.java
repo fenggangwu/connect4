@@ -4,12 +4,11 @@ package chessboard;
 /**
  * Board class
  * Implemented by ai.BoardNode and chessboard.ChessBoard
- * @author Sepsky
+ * @author 
  *
  */
 
 abstract public class Board {
-
 
 	/**
 	 * @param t who first drop the stone

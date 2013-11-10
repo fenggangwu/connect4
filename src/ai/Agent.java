@@ -3,7 +3,7 @@ package ai;
 
 /**
  * Naive Agent, top election: just simple alpha-beta algorithm
- * @author Sepsky
+ * @author 
  *
  */
 public class Agent implements AI {
@@ -147,6 +147,7 @@ public class Agent implements AI {
 			return AB;
 		}
 	}
+	
 	/**
 	 * Note the side-effect of recording the best choice
 	 * @param b

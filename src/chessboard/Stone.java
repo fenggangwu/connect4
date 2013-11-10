@@ -5,7 +5,7 @@ import ai.AI;
 
 /**
  * The chess
- * @author Sepsky
+ * @author 
  *
  */
 public class Stone {

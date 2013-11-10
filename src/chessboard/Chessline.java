@@ -3,7 +3,7 @@ package chessboard;
 
 /**
  * Store the 4-in-row when one side of the player win the game
- * @author Sepsky
+ * @author 
  *
  */
 public class Chessline{

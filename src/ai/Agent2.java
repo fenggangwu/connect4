@@ -4,7 +4,7 @@ package ai;
 /**
  * Improved Agent.
  * Top election: loop deepening
- * @author Sepsky
+ * @author 
  *
  */
 public class Agent2 implements AI {
@@ -163,6 +163,7 @@ public class Agent2 implements AI {
 			return AB;
 		}
 	}
+	
 	/**
 	 * Note the side-effect of recording the best choice
 	 * @param b
